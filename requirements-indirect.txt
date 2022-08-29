@@ -4,7 +4,7 @@ attrs==21.4.0
 bcrypt==3.2.0
 cffi==1.14.4
 cryptography==36.0.1
-distlib==0.3.1
+distlib==0.3.6
 entrypoints==0.3
 filelock==3.0.12
 gitdb2==4.0.2
